@@ -1,0 +1,12 @@
+ID  	 	: 1
+Nama  	 	: dendy
+Nilai Mtk 	 : 10
+Nilai B. Indo 	 : 10
+Nilai Fisika 	 : 10
+
+ID  	 	: 2
+Nama  	 	: ucup
+Nilai Mtk 	 : 6
+Nilai B. Indo 	 : 6
+Nilai Fisika 	 : 6
+

@@ -1,0 +1,30 @@
+
+Class Mahasiswa
+- ID -> int
+- Nama -> String
+- Nilai -> ArrayList<int> 3 data
+
+ArrayList <Mahasiswa>
+
+MENU
+1. Input Data Mahasiswa
+	- Create Obj Mahasiswa
+		Input ID, Nama, Nilai
+	- Masukan Obj ke ArrayList
+2. Edit Data Mahasiswa (Edit Nama)
+	- Mencari Data Mahasiswa dari Inputan ID
+3. Print Data Mahasiswa
+	ID		Nama 		Nilai1		Nilai2 		Nilai3
+	1		John		8			9			7
+	2		Peter		6			10			7
+4. Tulis Data Mahasiswa ke File
+	Input nama file D:\\test\\Mahasiswa.txt
+	
+	ID : 1
+	NAMA : John
+	NILAI : 8,9,7
+	ID : 2
+	NAMA : Peter
+	NILAI : 6,10,7
+	
+5. Exit
