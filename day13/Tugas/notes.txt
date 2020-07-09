@@ -1,0 +1,8 @@
+untuk menjalankan aplikasi. 
+1. masuk ke cmd
+2. masukan sintax : "java Main"
+3. path tidak perlu di rubah lagi karna sudah dinamis
+4. di dalam direktori folder tidak boleh mengandung spacy agar program nya tidak error
+5. happy coding
+
+@author ragil gilang maulana
