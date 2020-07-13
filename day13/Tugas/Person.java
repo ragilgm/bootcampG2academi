@@ -1,3 +1,5 @@
+
+// abstract class person
 public abstract class Person {
 
 	private String nama;

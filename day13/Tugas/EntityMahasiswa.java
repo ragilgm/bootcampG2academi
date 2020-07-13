@@ -12,14 +12,18 @@ public class EntityMahasiswa extends Person {
 		setNama(nama);
 		this.nilai = nilai;
 	}
-	
-	
-	
+		
 	public EntityMahasiswa() {
 		// TODO Auto-generated constructor stub
 	}
 
-
+	public EntityMahasiswa(int id, String nama, double inggris, double fisika, double algoritma) {
+		this.id = id;
+		setNama(nama);
+		nilai.add(inggris);
+		nilai.add(fisika);
+		nilai.add(algoritma);
+	}
 
 	// method untuk menampilkan value dari id
 	public int getId() {
@@ -34,11 +38,14 @@ public class EntityMahasiswa extends Person {
 	// method untuk menampilkan value dari arraylist nilai
 	public ArrayList<Double> getNilai() {
 		return nilai;
+		
 	}
 	
 	// method untuk merubah value dari arraylist nilai
-	public void setNilai(ArrayList<Double> nilai) {
-		this.nilai = nilai;
+	public void setNilai(double inggris, double fisika, double algoritma) {
+		nilai.add(inggris);
+		nilai.add(fisika);
+		nilai.add(algoritma);
 	}
 
 	
