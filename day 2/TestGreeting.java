@@ -1,0 +1,1 @@
+ku ciba cahayai ruang jiwa ini aku tersandar dan terangi ku coba sembunyikan suara hati aku tersandar dan terangi ku tenggela

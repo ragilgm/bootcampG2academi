@@ -1,0 +1,3 @@
+untuk menjalankan aplikasi. 
+1. masuk ke cmd
+2. masukan sintax : "java Main"

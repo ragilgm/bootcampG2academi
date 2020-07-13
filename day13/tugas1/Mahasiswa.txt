@@ -1,0 +1,10 @@
+ID,Nama, Bahasa Inggris , fisika, Algoritma
+3,andi,2.0,1.0,2.0
+1,dendi,1.0,2.0,3.0
+2,endin,1.0,2.0,3.0
+7,martin,1.0,2.0,3.0
+4,ragil,5.0,3.0,4.0
+9,rey,6.0,5.0,4.0
+5,reza,2.0,3.0,4.0
+6,riski,2.0,3.0,4.0
+8,udin,1.0,2.0,3.0
